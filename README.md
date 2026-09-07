@@ -1,12 +1,12 @@
-# Threat Modeling & Control Right-Sizing Engine
+# Threat Modeling Engine
 
-A comprehensive threat modeling engine that analyzes endpoint configurations, generates attack trees, maps to MITRE ATT&CK, calculates risk scores, and recommends security controls with cost-benefit analysis.
+A comprehensive threat modeling tool that analyzes endpoint configurations, generates attack trees, maps to MITRE ATT&CK, calculates risk scores, and recommends security controls with cost-benefit analysis.
 
 ---
 
 ## Overview
 
-The Threat Modeling & Control Right-Sizing Engine is a professional security tool designed to help security engineers, architects, and GRC analysts assess endpoint security posture, identify threats, prioritize risks, and recommend appropriate controls. The tool aligns with the Netflix L5 Security Engineer requirement for "Threat Modeling competency to influence control right-sizing and other prioritization efforts."
+The Threat Modeling Engine is a professional security tool designed to help security engineers, architects, and GRC analysts assess endpoint security posture, identify threats, prioritize risks, and recommend appropriate controls.
 
 ### Key Features
 
@@ -128,7 +128,7 @@ GENERATING REPORTS
 ================================================================================
 
 ================================================================================
-THREAT MODELING & CONTROL RIGHT-SIZING REPORT
+THREAT MODELING REPORT
 ================================================================================
 Generated: 2026-09-06 22:27:35
 --------------------------------------------------------------------------------
@@ -312,21 +312,6 @@ MIT License
 - NIST SP 800-53 Rev. 5: https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
 - CVSS v3.1 Specification: https://www.first.org/cvss/v3.1/specification-document
 - FIRST EPSS: https://www.first.org/epss/
-
----
-
-## Netflix Job Alignment
-
-This project directly addresses the Netflix L5 Security Engineer - Workforce Security job requirements:
-
-| Requirement | How This Project Addresses It |
-|-------------|-------------------------------|
-| Threat Modeling competency | Generates attack trees and maps threats to MITRE ATT&CK |
-| Control right-sizing | Recommends controls with ROI and priority scoring |
-| Endpoint security | Analyzes endpoint configurations across Windows, Linux, macOS |
-| Risk translation | Translates technical risks into business impact |
-| Data-driven decisions | Calculates quantitative risk scores |
-| Cross-platform | Supports Windows, Linux, macOS endpoints |
 
 ---
 
